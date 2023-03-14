@@ -32,7 +32,7 @@
 <br>
 
 <div align="center">
-Estudante de Análise e desenvovimento de sistemas e atualmente no 5° período. Aficcionado por tecnologia, busco sempre estar aprendendo coisas novas.
+ Alagoano, Maceioense e estudante de Análise e Desenvovimento de Sistemas, atualmente no 5° período. Apaixonado por tecnologia, busco sempre estar aprendendo coisas novas.
 
 ### E-mail: gustavorique@live.com
 ### WhatsApp: (82) 98162-1126
