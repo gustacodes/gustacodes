@@ -34,6 +34,6 @@
  
  Alagoano, Maceioense e estudante de Análise e Desenvovimento de Sistemas, atualmente no 5° período. Apaixonado por tecnologia, busco sempre estar aprendendo coisas novas.
 
-#### E-mail: gustavorique@live.com | WhatsApp: (82) 98162-1126
+#### E-mail: gustavorique@live.com | WhatsApp: +55 (82) 98162-1126
  </div> 
  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=00EE00&amp;height=120&amp;section=footer" data-canonical-src="" style="max-width: 100%;">
