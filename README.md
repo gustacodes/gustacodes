@@ -30,7 +30,7 @@
  
  <div align="center">
  
- <strong>{ SOBRE MIM }</strong>
+ <strong>{ SOBRE }</strong>
  
  Alagoano, Maceioense e estudante de Análise e Desenvovimento de Sistemas, atualmente no 5° período. Apaixonado por tecnologia, busco sempre estar aprendendo coisas novas.
 
