@@ -8,7 +8,7 @@
  
  <div align="center">
 
-  <strong>{ SKILLS }</strong>
+  <strong>{ TECNOLOGIAS }</strong>
   
 <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
     <img align="center" alt="Springboot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
@@ -28,12 +28,12 @@
 [![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavorique/)
  </div>
  
- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=00EE00&amp;height=120&amp;section=footer" data-canonical-src="" style="max-width: 100%;">
-<br>
-
-<div align="center">
+ <div align="center">
+ 
+ <strong>{ SOBRE MIM }</strong>
+ 
  Alagoano, Maceioense e estudante de Análise e Desenvovimento de Sistemas, atualmente no 5° período. Apaixonado por tecnologia, busco sempre estar aprendendo coisas novas.
 
-### E-mail: gustavorique@live.com
-### WhatsApp: (82) 98162-1126
- </div>
+#### E-mail: gustavorique@live.com | WhatsApp: (82) 98162-1126
+ </div> 
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=00EE00&amp;height=120&amp;section=footer" data-canonical-src="" style="max-width: 100%;">
