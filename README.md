@@ -1,6 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00EE00&height=120&section=header"/>
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00EE00&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=HELLO,+My+name+is+Gustavo+Alencar;I'm+31+years+old;I'm+from+Brazil;I+Graduated+Systems+Development;Be+Welcome!+:%29)
 
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gustacodes&amp;show_icons=true&amp;count_private=true&amp;hide_border=true&amp;title_color=FFFFFF&amp;icon_color=00CD00&amp;text_color=00EE00&amp;bg_color=0d1117" alt="Gustavo Alencar github stats" data-canonical-src="" style="max-width: 100%;"><img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustacodes&amp;layout=compact&amp;hide_border=true&amp;title_color=FFFFFF&amp;text_color=00EE00&amp;bg_color=0d1117" data-canonical-src="" style="max-width: 100%;">
  
@@ -12,9 +9,10 @@
     <img align="center" alt="Springboot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+    ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+    ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+    ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 </div><br><br>
 
@@ -34,4 +32,3 @@
 
 #### E-mail: gustavorique@live.com | WhatsApp: +55 (82) 98162-1126
  </div> 
- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=00EE00&amp;height=120&amp;section=footer" data-canonical-src="" style="max-width: 100%;">
