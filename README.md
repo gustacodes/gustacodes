@@ -26,8 +26,8 @@
  <div align="center">
  
  <strong>{ SOBRE }</strong>
- 
- Formado em analise e desenvolvimento de sistemas, atualmente trabalho como Engenheio de Software na Accenture, onde utilizo no dia a dia Java com Spring Boot como tecnologia principal. Também possuo conhecimentos em Angular e Ionic, banco de dados Oracle, MySQL e PostgreSQL. Tenho também familiarirade com brokes como RabbitMQ e Kafka.
+
+Atualmente atuo como Software Engineer Backend, desenvolvendo aplicações com Java e Spring Boot, seguindo as melhores práticas de código. Tenho experiência com autenticação e autorização via JWT, além de conhecimento em Kafka para arquitetura de eventos. Também possuo experiência em DevOps, utilizando Jenkins e GitHub Actions para CI/CD e deploy automatizado na Azure, incluindo gerenciamento de imagens em registro na nuvem. Tenho ainda conhecimentos em Docker, infraestrutura em cloud e banco de dados Oracle, garantindo entregas mais eficientes, seguras e escaláveis.
 
 #### E-mail: gustavorique@live.com | WhatsApp: +55 (82) 98162-1126
  </div> 
