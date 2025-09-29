@@ -30,7 +30,7 @@
  
  <strong>{ SOBRE }</strong>
  
- Alagoano, Maceioense e estudante de Análise e Desenvovimento de Sistemas, atualmente no último período. Apaixonado por tecnologia, busco sempre estar aprendendo coisas novas.
+ Formado em analise e desenvolvimento de sistemas, atualmente trabalho como Engenheio de Software na Accenture, onde utilizo no dia a dia Java com Spring Boot como tecnologia principal. Também possuo conhecimentos em Angular e Ionic, banco de dados Oracle, MySQL e PostgreSQL. Tenho também familiarirade com brokes como RabbitMQ e Kafka.
 
 #### E-mail: gustavorique@live.com | WhatsApp: +55 (82) 98162-1126
  </div> 
