@@ -27,7 +27,7 @@
  
  <strong>{ SOBRE }</strong>
 
-Atualmente atuo como Software Engineer Backend, desenvolvendo aplicações com Java e Spring Boot, seguindo as melhores práticas de código. Tenho experiência com autenticação e autorização via JWT, além de conhecimento em Kafka para arquitetura de eventos. Também possuo experiência em DevOps, utilizando Jenkins, GitHub Actions para CI/CD e deploy automatizado na Azure, incluindo gerenciamento de imagens em registro na nuvem. Tenho ainda conhecimentos em Docker, infraestrutura em cloud e banco de dados Oracle, garantindo entregas mais eficientes, seguras e escaláveis.
+Atualmente atuo como Backend, desenvolvendo aplicações com Java e Spring Boot, seguindo as melhores práticas de código. Tenho experiência com autenticação e autorização via JWT, além de conhecimento em Kafka para arquitetura de eventos. Também possuo experiência em DevOps, utilizando Jenkins, GitHub Actions para CI/CD e deploy automatizado na Azure, incluindo gerenciamento de imagens em registro na nuvem. Tenho ainda conhecimentos em Docker, infraestrutura em cloud e banco de dados Oracle, garantindo entregas mais eficientes, seguras e escaláveis.
 
 #### E-mail: gustalencarvalho@gmail.com | WhatsApp: +55 (82) 98162-1126
  </div> 
